@@ -47,18 +47,10 @@ Esse projeto utilizou as seguintes tecnologias:
 
 Print de cada página:
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="github/frontend1">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-[Página de Login](github/frontend1.png)
-[Página de cadastro de ONG](github/frontend2.png)
-[Página da ONG](github/frontend3.png)
-[Página de cadastro de caso](github/frontend4.png)
+[Página de Login](github/frontend1.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Página de cadastro de ONG](github/frontend2.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Página da ONG](github/frontend3.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Página de cadastro de caso](github/frontend4.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 ---
 - ## :iphone: Mobile
