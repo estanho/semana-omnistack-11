@@ -43,22 +43,18 @@ Esse projeto utilizou as seguintes tecnologias:
 - ## :computer: Web
 <p align="center">
   <img src="github/web.gif">
-  
 </p>
+
+Visão separada de cada página:
+- [Página de Login](github/frontend1.gif)
+- [Página de cadastro de ONG](github/frontend2.gif)
+- [Página da ONG](github/frontend3.gif)
+- [Página de cadastro de caso](github/frontend4.gif)
 
 - ## :iphone: Mobile
 <p align="center">
   <img src="github/mobile.gif">
 </p>
-
-<p align="center">
-  Visão separada de cada página:
-  -[Página de Login](github/frontend1.gif)
-  -[Página de cadastro de ONG](github/frontend2.gif)
-  -[Página da ONG](github/frontend3.gif)
-  -[Página de cadastro de caso](github/frontend4.gif)
-</p>
-
 ---
 ## Licença
 
