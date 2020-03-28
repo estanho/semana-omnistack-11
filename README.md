@@ -20,7 +20,7 @@
 
 ---
 
-<img src="github/frontend3.png" width="80%" aligh="center">
+<img src="github/logo.png" width="80%" align="center">
 
 ## Projeto
 O **Be the Hero** é um projeto que visa dar a possibilidade das pessoas ajudarem ONGs de uma forma simples e fácil. <br>
