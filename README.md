@@ -19,19 +19,14 @@
 </p>
 
 ---
+<p align="center">
+  <img src="github/logo.png">
+</p>
+
 ## Projeto
 O **Be the Hero** é um projeto que visa dar a possibilidade das pessoas ajudarem ONGs de uma forma simples e fácil. <br>
 O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://rocketseat.com.br/).
 <br>
-
-- ## :computer: Web
-<img src="github/frontend1.png" width="80%">
-<img src="github/frontend2.png" width="80%">
-<img src="github/frontend3.png" width="80%">
-<img src="github/frontend4.png" width="80%">
-
-- ## :iphone: Mobile
-![](github/mobile.gif.gif)
 
 ---
 ## Tecnologias
@@ -43,6 +38,20 @@ Esse projeto utilizou as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+
+---
+- ## :computer: Web
+<p align="center">
+  <img src="github/frontend1.png" width="80%">
+  <img src="github/frontend2.png" width="80%">
+  <img src="github/frontend3.png" width="80%">
+  <img src="github/frontend4.png" width="80%">
+</p>
+
+- ## :iphone: Mobile
+<p align="center">
+  <img src="github/mobile.gif">
+</p>
 
 ---
 ## Licença
