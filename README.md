@@ -52,10 +52,11 @@ Esse projeto utilizou as seguintes tecnologias:
 </p>
 
 <p align="center">
-  [Tela de Login](github/frontend1.gif)
-  [Cadastro de ONG](github/frontend2.gif)
-  [Tela da ONG](github/frontend3.gif)
-  [Cadastro de caso](github/frontend4.gif)
+  Visão separada de cada página:
+  -[Página de Login](github/frontend1.gif)
+  -[Página de cadastro de ONG](github/frontend2.gif)
+  -[Página da ONG](github/frontend3.gif)
+  -[Página de cadastro de caso](github/frontend4.gif)
 </p>
 
 ---
