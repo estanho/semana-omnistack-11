@@ -56,6 +56,7 @@ Print de cada página:&nbsp;
 <p align="center">
   <img src="github/mobile.gif">
 </p>
+
 ---
 ## Licença
 
