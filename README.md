@@ -24,7 +24,7 @@
 </p>
 
 ## Projeto
-O **Be the Hero** é um projeto que visa dar a possibilidade das pessoas ajudarem ONGs de uma forma simples e fácil. <br>
+**Be the Hero** é um projeto que visa dar a possibilidade das pessoas ajudarem ONGs de uma forma simples e fácil. <br>
 O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://rocketseat.com.br/).
 <br>
 
