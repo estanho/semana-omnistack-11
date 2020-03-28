@@ -42,15 +42,20 @@ Esse projeto utilizou as seguintes tecnologias:
 ---
 - ## :computer: Web
 <p align="center">
-  <img src="github/frontend1.png" width="80%">
-  <img src="github/frontend2.png" width="80%">
-  <img src="github/frontend3.png" width="80%">
-  <img src="github/frontend4.png" width="80%">
+  <img src="github/web.gif">
+  
 </p>
 
 - ## :iphone: Mobile
 <p align="center">
   <img src="github/mobile.gif">
+</p>
+
+<p align="center">
+  [Tela de Login](github/frontend1.gif)
+  [Cadastro de ONG](github/frontend2.gif)
+  [Tela da ONG](github/frontend3.gif)
+  [Cadastro de caso](github/frontend4.gif)
 </p>
 
 ---
