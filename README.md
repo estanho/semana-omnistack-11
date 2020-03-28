@@ -34,7 +34,6 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
   <img src="github/web.gif">
 </p>
   
----
 - ## :iphone: Mobile
 <p align="center">
   <img src="github/mobile.gif">
