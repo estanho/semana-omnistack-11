@@ -29,17 +29,6 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
 <br>
 
 ---
-## Tecnologias
-
-Esse projeto utilizou as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-
----
 - ## :computer: Web
 <p align="center">
   <img src="github/web.gif">
@@ -50,6 +39,17 @@ Esse projeto utilizou as seguintes tecnologias:
 <p align="center">
   <img src="github/mobile.gif">
 </p>
+
+---
+## Tecnologias
+
+Esse projeto utilizou as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ---
 ## Licença
