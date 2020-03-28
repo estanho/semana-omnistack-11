@@ -50,7 +50,7 @@ Esse projeto utilizou as seguintes tecnologias:
 
 - ## :iphone: Mobile
 <p align="center">
-  ![](github/mobile.gif)
+  <img src="github/mobile.gif">
 </p>
 
 ---
