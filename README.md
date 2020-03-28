@@ -45,12 +45,13 @@ Esse projeto utilizou as seguintes tecnologias:
   <img src="github/web.gif">
 </p>
 
-Visão separada de cada página:
-- [Página de Login](github/frontend1.png)
-- [Página de cadastro de ONG](github/frontend2.png)
-- [Página da ONG](github/frontend3.png)
-- [Página de cadastro de caso](github/frontend4.png)
+Print de cada página:
+[Página de Login](github/frontend1.png)
+[Página de cadastro de ONG](github/frontend2.png)
+[Página da ONG](github/frontend3.png)
+[Página de cadastro de caso](github/frontend4.png)
 
+---
 - ## :iphone: Mobile
 <p align="center">
   <img src="github/mobile.gif">
