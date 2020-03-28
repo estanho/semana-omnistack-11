@@ -41,10 +41,12 @@ Esse projeto utilizou as seguintes tecnologias:
 
 ---
 - ## :computer: Web
-<img src="github/frontend1.png" width="80%">
-<img src="github/frontend2.png" width="80%">
-<img src="github/frontend3.png" width="80%">
-<img src="github/frontend4.png" width="80%">
+<p align="center">
+  <img src="github/frontend1.png" width="80%">
+  <img src="github/frontend2.png" width="80%">
+  <img src="github/frontend3.png" width="80%">
+  <img src="github/frontend4.png" width="80%">
+</p>
 
 - ## :iphone: Mobile
 ![](github/mobile.gif)
