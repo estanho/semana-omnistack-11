@@ -49,7 +49,9 @@ Esse projeto utilizou as seguintes tecnologias:
 </p>
 
 - ## :iphone: Mobile
-![](github/mobile.gif)
+<p align="center">
+  ![](github/mobile.gif)
+</p>
 
 ---
 ## Licença
