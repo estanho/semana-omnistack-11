@@ -36,7 +36,7 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
 Esse projeto utilizou as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [Knex js](http://knexjs.org/)
+- [Express](https://expressjs.com/pt-br/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
