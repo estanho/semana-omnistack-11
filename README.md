@@ -46,12 +46,13 @@ Esse projeto utilizou as seguintes tecnologias:
 </p>
 
 Print de cada página:
-
-[Página de Login](github/frontend1.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Página de cadastro de ONG](github/frontend2.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Página da ONG](github/frontend3.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Página de cadastro de caso](github/frontend4.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+<p align="center">
+  [Página de Login](github/frontend1.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [Página de cadastro de ONG](github/frontend2.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [Página da ONG](github/frontend3.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [Página de cadastro de caso](github/frontend4.png)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+  
 ---
 - ## :iphone: Mobile
 <p align="center">
