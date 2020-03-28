@@ -25,10 +25,13 @@ O desenvolvimento ocorreu durante a semana Omnistack da [Rocketseat](https://roc
 <br>
 
 - ## :computer: Web
-<img src="github/web.png" width="80%"> 
+<img src="github/frontend1.png" width="80%">
+<img src="github/frontend2.png" width="80%">
+<img src="github/frontend3.png" width="80%">
+<img src="github/frontend4.png" width="80%">
 
 - ## :iphone: Mobile
-<img src="github/mobile.png"> 
+<img src="github/mobile.gif"> 
 
 ---
 ## Tecnologias
