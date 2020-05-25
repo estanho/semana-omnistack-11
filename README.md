@@ -56,6 +56,4 @@ Esse projeto utilizou as seguintes tecnologias:
 [LICENSE](LICENSE) & [Rocketseat](https://rocketseat.com.br/)
 
 ---
-
-:squirrel:
-
+:shipit:
